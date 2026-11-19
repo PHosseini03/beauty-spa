@@ -88,7 +88,7 @@ export const HOURS = [
 ];
 
 export const CONTACT = {
-  phone: "+49 30 5550 177",
+  phone: "Ihre Telefonnummer hier",
   email: "hallo@lumiere.example",
-  address: "Rosenweg 28, 10115 Berlin",
+  address: "Ihre Adresse hier",
 };

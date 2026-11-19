@@ -4,7 +4,7 @@
 
 An airy, elegant website for a boutique beauty salon and spa: blush, sage and cream, Bodoni Moda italic accents, arch-shaped photo frames. React + TypeScript frontend and a FastAPI backend.
 
-**Language:** the whole site is in German (formal „Sie“), with prices in euros (`de-DE` formatting), German dates and 24-hour times, a Berlin address and +49 phone number. API error messages are German too; field names and routes stay in English.
+**Language:** the whole site is in German (formal „Sie“), with prices in euros (`de-DE` formatting), German dates and 24-hour times, and placeholder contact details (“Ihre Adresse hier”, “Ihre Telefonnummer hier”). API error messages are German too; field names and routes stay in English.
 
 ![Desktop](screenshots/hero.png)
 
